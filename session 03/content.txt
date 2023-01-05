@@ -2,3 +2,4 @@ hello world
 my name is abhishek
 welcome to pyspark
 Python
+Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance
