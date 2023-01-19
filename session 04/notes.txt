@@ -1,0 +1,10 @@
+DataFrame :
+    -is a new object to be used instead of RDD (from spark 2.0)
+    -Dataframe is  a wrapper over RDD
+    -immutable
+    -benefites
+        - structred acces to data (columns and rows concept)
+        - benefits of RDD are inherited
+        - add cols, del cols, creating computed cols, joining DFs
+        - SQL support
+        - it is easy to use than RDDs
